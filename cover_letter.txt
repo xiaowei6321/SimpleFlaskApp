@@ -1,0 +1,4 @@
+Hello, I have developed a simple Flask application based on your requirements. The program tasks an image and recolors it using a few prominent colors. 
+Attached is the result image. If it meets your expectations, please consider accepting it.
+
+Let me know if you need further adjustments!
